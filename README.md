@@ -1,7 +1,7 @@
-#[EN] Integration Of Informational Resources
-#[UA] Технології інтеграції інформаційних ресурсів
+<h1>[EN] Integration Of Informational Resources</h1>
+<h1>[UA] Технології інтеграції інформаційних ресурсів</h1>
 
-##[EN]
+<h2>[EN]</h2>
 In this repository stored laboratory projects of subject "Technologies of integration of information resources".
 
 The following projects are currently available:
@@ -9,7 +9,7 @@ The following projects are currently available:
 * REST_client - program for access to REST API from lab #3.
 * REST_server - REST API server, which can be interacted with via JSON requests, lab #4.
 
-##[UA]
+<h2>[UA]</h2>
 У даному репозиторії збережено код до лабораторних робіт з предмету "Технології інтеграції інформаційних ресурсів"
 
 На даний момент доступні наступні проекти:
