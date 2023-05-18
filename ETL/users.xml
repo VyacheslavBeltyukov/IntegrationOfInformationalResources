@@ -1,0 +1,101 @@
+<users>
+  <user>
+    <Username>johndoe</Username>
+    <Email>johndoe@example.com</Email>
+    <Password>password123</Password>
+    <Full_Name>John Doe</Full_Name>
+    <Age>30</Age>
+    <Address>123 Main Street</Address>
+    <Phone_Number>555-1234</Phone_Number>
+  </user>
+  <user>
+    <Username>janedoe</Username>
+    <Email>janedoe@example.com</Email>
+    <Password>secret456</Password>
+    <Full_Name>Jane Doe</Full_Name>
+    <Age>25</Age>
+    <Address>456 Elm Street</Address>
+    <Phone_Number>555-5678</Phone_Number>
+  </user>
+  <user>
+    <Username>alice</Username>
+    <Email>alice@example.com</Email>
+    <Password>abc123</Password>
+    <Full_Name>Alice Smith</Full_Name>
+    <Age>35</Age>
+    <Address>789 Oak Avenue</Address>
+    <Phone_Number>555-9012</Phone_Number>
+  </user>
+  <user>
+    <Username>bob</Username>
+    <Email>bob@example.com</Email>
+    <Password>xyz789</Password>
+    <Full_Name>Bob Johnson</Full_Name>
+    <Age>40</Age>
+    <Address>987 Pine Road</Address>
+    <Phone_Number>555-3456</Phone_Number>
+  </user>
+  <user>
+    <Username>mark</Username>
+    <Email>mark@example.com</Email>
+    <Password>pass456</Password>
+    <Full_Name>Mark Davis</Full_Name>
+    <Age>28</Age>
+    <Address>654 Cedar Lane</Address>
+    <Phone_Number>555-7890</Phone_Number>
+  </user>
+  <user>
+    <Username>sarah</Username>
+    <Email>sarah@example.com</Email>
+    <Password>hello123</Password>
+    <Full_Name>Sarah Johnson</Full_Name>
+    <Age>32</Age>
+    <Address>321 Birch Street</Address>
+    <Phone_Number>555-2345</Phone_Number>
+  </user>
+  <user>
+    <Username>alex</Username>
+    <Email>alex@example.com</Email>
+    <Password>pass123</Password>
+    <Full_Name>Alex Turner</Full_Name>
+    <Age>27</Age>
+    <Address>876 Maple Drive</Address>
+    <Phone_Number>555-6789</Phone_Number>
+  </user>
+  <user>
+    <Username>emily</Username>
+    <Email>emily@example.com</Email>
+    <Password>abcxyz</Password>
+    <Full_Name>Emily Wilson</Full_Name>
+    <Age>29</Age>
+    <Address>543 Oak Lane</Address>
+    <Phone_Number>555-9012</Phone_Number>
+  </user>
+  <user>
+    <Username>peter</Username>
+    <Email>peter@example.com</Email>
+    <Password>pass789</Password>
+    <Full_Name>Peter Brown</Full_Name>
+    <Age>31</Age>
+    <Address>987 Elm Avenue</Address>
+    <Phone_Number>555-3456</Phone_Number>
+  </user>
+  <user>
+    <Username>lisa</Username>
+    <Email>lisa@example.com</Email>
+    <Password>hello456</Password>
+    <Full_Name>Lisa Davis</Full_Name>
+    <Age>26</Age>
+    <Address>654 Cedar Lane</Address>
+    <Phone_Number>555-7890</Phone_Number>
+  </user>
+  <user>
+    <Username>michael</Username>
+    <Email>michael@example.com</Email>
+    <Password>pass123</Password>
+    <Full_Name>Michael Turner</Full_Name>
+    <Age>30</Age>
+    <Address>321 Birch Street</Address>
+    <Phone_Number>555-2345</Phone_Number>
+  </user>
+</users>
