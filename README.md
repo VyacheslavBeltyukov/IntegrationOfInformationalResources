@@ -9,7 +9,7 @@ The following projects are currently available:
 * REST_client - program for access to REST API from lab #3.
 * REST_server - REST API server, which can be interacted via JSON requests, lab #4.
 * ETL - program, which extracts data from .xlsx and .xml and load to sqlite db, lab #5
-* Federalization - program for work with distributed databases with GAV approach, lab #6
+* GAV - program for work with distributed databases with GAV approach, lab #6
 
 <h2>[UA]</h2>
 У даному репозиторії збережено код до лабораторних робіт з предмету "Технології інтеграції інформаційних ресурсів"
@@ -19,4 +19,4 @@ The following projects are currently available:
 * REST_client - програма для доступу до REST API з лабораторної роботи №3.
 * REST_server - REST API сервер, з яким можна взаємодіяти через JSON запити, лабораторна робота №4.
 * ETL - програма, що видобуває дані з .xlsx та .xml та після перетворень завантажує до бази даних sqlite, лабораторна робота №5
-* Federalization - програма для роботи з розботіленими базами даних з підходом GAV, лабораторна робота №6
+* GAV - програма для роботи з розботіленими базами даних з підходом GAV, лабораторна робота №6
