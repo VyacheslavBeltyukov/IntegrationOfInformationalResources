@@ -1,0 +1,8 @@
+first.db, second.db, third.db
+source1, source2, source3
+id INTEGER PRIMARY KEY AUTOINCREMENT, username TEXT, name TEXT, surname TEXT, age INTEGER
+id INTEGER PRIMARY KEY AUTOINCREMENT, email TEXT, address TEXT, phone_number TEXT, post_code INTEGER
+id INTEGER PRIMARY KEY AUTOINCREMENT, hours INTEGER, achievements INTEGER, wins INTEGER, kd_rate REAL
+username, name, surname, age
+email, address, phone_number, post_code
+hours, achievements, wins, kd_rate
